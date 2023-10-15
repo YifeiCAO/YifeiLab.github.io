@@ -59,3 +59,13 @@ crumplabr::bib_2_pub_list("publications/Crump/Crump.bib",
                          "https://www.crumplab.com/publications/Crump/files")
 ```
 :::
+
+## Yifei
+::: publications
+```{r, results='asis', echo=F, message=F, warning=FALSE, eval=TRUE}
+crumplabr::bib_2_pub_list("publications/Yifei/YifeiLab.bib",
+                         "publications/Yifei/files",
+                         "https://yifeicao.github.io/YifeiLab.github.io/publications/Yifei/files")
+
+```
+:::
